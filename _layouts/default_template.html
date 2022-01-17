@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html lang="{{ page.lang | default: site.lang | default: " en" }}">
+
+{%- include head.html -%}
+
+<style>
+  .wrapper {
+    width: 100%;
+    max-width: 1110px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 30px;
+    padding-left: 30px;
+    box-sizing: border-box;
+  }
+</style>
+
+<body>
+
+  {%- include header.html -%}
+
+  <div class="wrapper" style="display:flex;flex-direction: row-reverse">
+
+    <main class="not-page-content" aria-label="Content"
+      style="flex-grow:1; width:100%; max-width: 800px; display: block;">
+      <div class="wrapper">
+        Hello
+        {{ content }}
+      </div>
+    </main>
+
+    <nav style="padding-right:30px;display:block;width: 250px; min-width: 250px; box-sizing: border-box">
+
+      <p>hello</p>
+      <p>goodbye</p>
+    </nav>
+
+
+
+  </div>
+
+
+
+  {%- include footer.html -%}
+
+</body>
+
+</html>
