@@ -4,8 +4,10 @@ title: Opinion
 permalink: /opinion/
 ---
 
+Opinion pieces written by Yours Truly. Views expressed here at not necessarily held by me still, nor necessarily well researched or evidence-based.
+
 <ul class="post-list">
-    {%- for post in site.categories.Opinnion -%}
+    {%- for post in site.categories.opinion -%}
     <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
