@@ -11,15 +11,9 @@ permalink: /opinion/:year/:month/:title
 The Australian Open main tournament began on Monday, 10 January, 2022. Being the world no. 1, Serbian player Novak Djokovic would not have had to play in qualifiers in order to play in the main draw.
 
 An unforseen obstacle, however, proved a stubborn hindrance to him. That was, upon arrival in Australia on Wednesday, 5 January, he was denied entry by immigration officials at Melbourne Airport, taken for questioning throughout the night, and had his visa cancelled in the span of 24 hours.
-a
-<img src="{{site.baseurl}}/assets/opinion/Djokovic.jpg">
-b
-<img src="/assets/opinion/Djokovic.jpg">
-c
-![Djokovic](/assets/opinion/Djokovic.jpg)
 
+<img src="{{site.url}}/assets/opinion/Djokovic.jpg">
 
-<br>
 Source: https://commons.wikimedia.org/wiki/File:Novak_Djokovic_Queen%27s_Club_2018.jpg
 
 *Djokovic is the World No. 1*
