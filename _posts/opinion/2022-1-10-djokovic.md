@@ -12,7 +12,7 @@ The Australian Open main tournament began on Monday, 10 January, 2022. Being the
 
 An unforseen obstacle, however, proved a stubborn hindrance to him. That was, upon arrival in Australia on Wednesday, 5 January, he was denied entry by immigration officials at Melbourne Airport, taken for questioning throughout the night, and had his visa cancelled in the span of 24 hours.
 
-<img src="{{site.url}}/assets/opinion/Djokovic.jpg">
+<img src="{{site.url}}/assets/opinion/djokovic.jpg">
 
 Source: https://commons.wikimedia.org/wiki/File:Novak_Djokovic_Queen%27s_Club_2018.jpg
 
