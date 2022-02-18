@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Djokovic saga has been blown way out of proportion. Is the media or the government at fault?"
+title:  "The Djokovic saga has been blown way out of proportion. Who is at fault?"
 date:   2022-01-10 13:49:11 +1100
 categories: opinion featured
 tags: djokovic tennis

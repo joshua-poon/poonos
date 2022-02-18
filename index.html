@@ -34,8 +34,7 @@ layout: default
                 href="https://www.youtube.com/c/JoshPoon">YouTube</a> • <a href="/opinion">Opinion</a></p>
 
         <p><a href="/nostalgia/movies">Movies</a> • <a href="/nostalgia/books">Books</a> • <a
-                href="/nostalgia/tv">TV</a> • <a href="/nostalgia/music">Music</a> • <a
-                href="/nostalgia/memories">Nostalgia</a></p>
+                href="/nostalgia/tv">TV</a> • <a href="/nostalgia/music">Music</a></p>
 
     </div>
     <div style="text-align:left;">
@@ -46,12 +45,13 @@ layout: default
             {%- for post in site.categories.featured -%}
             <li>
                 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-                <span class="post-meta">{{ post.date | date: date_format }}</span>
-                <h3>
+                <span class="post-meta" style="text-transform:capitalize">{{ post.date | date: date_format }} •
+                    {{post.categories[0]}}</span>
+                <h4>
                     <a class="post-link" href="{{ post.url | relative_url }}">
                         {{ post.title | escape }}
                     </a>
-                </h3>
+                </h4>
                 {%- if site.show_excerpts -%}
                 {{ post.excerpt }}
                 {%- endif -%}
@@ -74,7 +74,7 @@ layout: default
             thoughts on the content and the course, as well as the perspective of a health
             worker. </p>
 
-        <h3><a href="/Languages">Languages</a></h3>
+        <h3><a href="/languages">Languages</a></h3>
 
         <p>My complete guides to Latin and French. Vital Chinese healthcare
             phrases. Observations on the English language and the evolution of scripts. The importance of
