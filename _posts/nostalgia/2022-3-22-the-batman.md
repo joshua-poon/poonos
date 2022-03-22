@@ -13,7 +13,7 @@ I was told also that the opening was very dark. And after I left the theatre I w
 
 Throughout the film, Batman walks quite slowly in an attempt to make the scene more intense - but perhaps he has a gait problem or sciatica. I liked the music which accompanied the film, as well. Something In the Way by Nirvana was an apt accompaniment to the dark themes. Bruce Wayne riding a motorcycle at night accompanied by this song didn’t give me chills, but it did give the top commenter on <a href="https://www.youtube.com/watch?v=1YhR5UfaAzM">this video</a> chills. I could feel, also, the fear in that gangsta guy in the overturned car's face as Batman walked towards him slowly though. The effect worked.
 
-<img src="{{site.url}}/assets/opinion/batman_1.jpg">
+<img src="{{site.url}}/assets/nostalgia/batman_1.jpg">
 
 The emotional, nostalgic and love affair aspects of the film were kinda lost on me. Because I didn’t get them. Are Catwoman and Batman lovers? Who is Bruce Wayne’s father? Apparently he was a non-corrupt politician who did good for the world. Who was the caretaker of the church guy, who apparently was Batman’s guardian? Oh wait Bruce Wayne was an orphan. I saw a comparison actually of the orphan status of Bruce and the baddie, and that while Bruce lived in wealth, others were not so fortunate. Still confused tho.
 
