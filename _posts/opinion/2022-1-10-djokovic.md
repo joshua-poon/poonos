@@ -8,7 +8,6 @@ permalink: /opinion/:year/:month/:title
 
 ---
 
-<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/67391920/activity-summary/8ce40c78446bd39471c3b6b51a4fd1fb3512d815'></iframe>
 
 
 The Australian Open main tournament began on Monday, 10 January, 2022. Being the world no. 1, Serbian player Novak Djokovic would not have had to play in qualifiers in order to play in the main draw.
