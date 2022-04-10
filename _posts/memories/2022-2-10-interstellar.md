@@ -3,7 +3,7 @@ layout: post
 title: "(Half of) Interstellar in IMAX - a review"
 date: 2022-02-10 0:49:11 +1100
 tags: movies
-categories: nostalgia movies featured
+categories: memories movies featured
 ---
 
 Last night, I saw (half of) Interstellar in IMAX. Why half? Read on. Also, spoilers.   

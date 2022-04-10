@@ -4,8 +4,8 @@ author:
 title: "All the books I've ever read"
 date: 2022-01-31 0:49:11 +1100
 tags: movies
-categories: nostalgia
-permalink: "/nostalgia/books"
+categories: memories
+permalink: "/memories/books"
 ---
 
 When I was younger, I was really into reading books. 
