@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 {%- if page.title -%}
 <h1 class="page-heading">{{ page.title }}</h1>
 {%- endif -%}
@@ -36,22 +35,8 @@ layout: default
             <a href="/memories/music">Music</a>
         </p>
 
+        {%- include form.html -%}
 
-        <form action="https://api.staticforms.xyz/submit" method="post">
-            <input type="text" name="name" placeholder="Your Name">
-            <input type="text" name="email" placeholder="Your Email" />
-            <textarea name="message"></textarea>
-            <input type="text" name="honeypot" style="display:none">
-            <input type="hidden" name="accessKey" value="8afe4f8f-00ef-4bed-9540-bddb825011ff">
-            <input type="subject" name="subject" value="Contact us from - example.com" />
-            <div>
-                <input type="checkbox" id="subscribe" name="$subscribe" checked />
-                <label for="subscribe">Subscribe</label>
-            </div>
-            <input type="hidden" name="replyTo" value="@">
-            <input type="hidden" name="redirectTo" value="https://example.com/contact/success">
-            <input type="submit" value="Submit" />
-        </form>
 
     </div>
     <div style="text-align:left;">
