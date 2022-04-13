@@ -36,6 +36,19 @@ layout: default
             <a href="/memories/music">Music</a>
         </p>
 
+
+        <form action="https://api.staticforms.xyz/submit" method="post">
+            <input type="text" name="name" placeholder="Your Name">
+            <input type="text" name="email" placeholder="Your Email" />
+            <textarea name="message"></textarea>
+            <input type="text" name="honeypot" style="display:none">
+            <input type="hidden" name="accessKey" value="8afe4f8f-00ef-4bed-9540-bddb825011ff">
+            <input type="hidden" name="subject" value="Contact us from - example.com" />
+            <input type="hidden" name="replyTo" value="@">
+            <input type="hidden" name="redirectTo" value="https://example.com/contact/success">
+            <input type="submit" value="Submit" />
+        </form>
+
         <p>I'm going to make a custom form soon, but here's one from mailchimp for the time being.`</p>
         <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css" rel="stylesheet" type="text/css">
         <style type="text/css">

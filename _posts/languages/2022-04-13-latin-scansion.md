@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "A guide to Latin scnaion"
+title:  "A guide to Latin scansion for dactylic hexameter"
 date:   2022-04-13 03:49:11 +1100
 categories: languages featured
 tags: latin scansion 
 ---
-<h2>A guide to scansion for dactylic hexameter</h2>
-
 Scansion is identifying the rhythm of a line of Latin poetry. The most important aspects are the length of the vowels/syllables and the divisions within each line.
 
 <h2>Dactylic hexameter</h2>
