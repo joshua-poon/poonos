@@ -54,7 +54,7 @@ defaults:
 header_pages:
   - pages/languages.md
   - pages/medicine.md
-  - pages/nostalgia.md
+  - pages/life.md
   - pages/opinion.md
 
 #{%if file.image%<img src="{{file.path}}" alt = "{file.name}}"{%endif%}

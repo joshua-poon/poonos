@@ -3,7 +3,7 @@ layout: post
 title: "The Batman - my first ever DC film"
 date: 2022-03-22 0:49:11 +1100
 tags: movies
-categories: memories movies featured
+categories: life movies featured
 ---
 I saw The Batman in cinemas, last Thursday, 17th March, 2022, at Melbourne Central Hoyts, with some mates. It had been hyped up quite a bit by a lot of people I had talked to - most had said it was a good film, that it was quite a dark film and that it was quite long. I know pretty much nothing about DC (or Marvel, for that matter, even though I’ve been on the Marvel Superhero bandwagon for the past couple of years due to its, or at least from my perspective as someone who’s never been into this genre of film, meteoric rise within popular culture). 
 
