@@ -1,0 +1,114 @@
+---
+layout: post
+author:
+title: "Joshua's In-Progress HTML Guitar Trainer"
+date: 2022-04-19 0:49:11 +1100
+tags: guitar
+categories: life featured
+permalink: "/guitar"
+---
+<!DOCTYPE html>
+<html lang="en">
+
+
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Joshua's Guitar Simulator</title>
+</head>
+
+<body>
+    <header>
+        <h1>Joshua's Guitar Trainer</h1>
+    </header>
+    <main>
+        <p>Initial observations on guitar chords (will consolidate in new post): the base note is the tonic. The third
+            is crucial for major / minor distinction but often ommitted in the lower octave of a standard (two octave
+            range chord). The interval between all strings except G/B is a perfect 4th. A major third is one semitone
+            less than a perfect 4th, hence the recurring pattern of the third finger one fret closer to the guitar body
+            compared to the index finger. (similarly with the minor third pattern in the mediant/dominant of major
+            chords and tonic/mediant of minor chords.</p>
+        <p>Plan: learn notes. Learn chords. Consolidate types of chords (base note differences, 7s, sustained) Practice
+            chords. Practice strumming and strumming patterns.</p>
+        <table>
+            <tr>
+                <td>F</td>
+                <td>F#/G♭</td>
+                <td>G</td>
+                <td>G#/A♭</td>
+                <td>A</td>
+            </tr>
+            <tr>
+                <td>C</td>
+                <td>C#/D♭</td>
+                <td>D</td>
+                <td>D#/E♭</td>
+                <td>E</td>
+            </tr>
+            <tr>
+                <td>G#/A♭</td>
+                <td>A</td>
+                <td>A#/B♭</td>
+                <td>B</td>
+                <td>C</td>
+
+            </tr>
+            <tr>
+                <td>D#/E♭</td>
+                <td>E</td>
+                <td>F</td>
+                <td>F#/G♭</td>
+                <td>G</td>
+            </tr>
+            <tr>
+                <td>A#/B♭</td>
+                <td>B</td>
+                <td>C</td>
+                <td>C#/D♭</td>
+                <td>D</td>
+            </tr>
+            <tr>
+                <td>F</td>
+                <td>F#/G♭</td>
+                <td>G</td>
+                <td>G#/A♭</td>
+                <td>A</td>
+            </tr>
+        </table>
+
+        <button id="resetcolour">Reset Colour</button>
+
+        <section>
+            <h3>Major chord Selector</h3>
+            <button class="chord">A</button>
+            <button class="chord">A#/B♭</button>
+            <button class="chord">B</button>
+            <button class="chord">C</button>
+            <button class="chord">C#/D♭</button>
+            <button class="chord">D</button>
+            <button class="chord">D#/E♭</button>
+            <button class="chord">E</button>
+            <button class="chord">F</button>
+            <button class="chord">F#/G♭</button>
+            <button class="chord">G</button>
+            <button class="chord">G#/A♭</button>
+
+        </section>
+
+
+        <section>
+            <h3 id="note">Note: </h3>
+            <button id="hidenotes">Hide Notes</button>
+            <button id="crammer">Note Crammer</button>
+            <button id="reveal">Reveal</button>
+
+        </section>
+
+    </main>
+    <link rel="stylesheet" href="/assets/css/guitary.css">
+    <script src="/assets/js/guitar.js"></script>
+</body>
+
+</html>

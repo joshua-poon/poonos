@@ -1,0 +1,29 @@
+td,
+th {
+    border: 1px solid #000;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 0px;
+    table-layout: fixed;
+    width: 80%;
+}
+
+
+tr {
+    height: 100px;
+    text-align: center;
+    vertical-align: top;
+    font-size: 200%;
+}
+
+
+table tr:nth-child(6) td {
+    border: 1px solid white;
+    border-top: black;
+}
+
+.cell {
+    border-color: #0f0;
+}
