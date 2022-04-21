@@ -2,7 +2,7 @@
 layout: post
 title:  "Creating a form on my static website"
 date:   2022-04-13 03:49:11 +1100
-categories: languages programming featured
+categories: projects
 tags: programming
 ---
 
