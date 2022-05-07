@@ -1,0 +1,35 @@
+td,
+th {
+    border: 8px solid #000;
+}
+
+table {
+    border-collapse: collapse;
+    /*border-spacing: 100px;*/
+    table-layout: fixed;
+    width: 80%;
+}
+
+tr {
+    height: 85px;
+    text-align: center;
+    vertical-align: top;
+    font-size: 100%;
+}
+
+table tr:nth-child(6) td {
+    border: 1px solid white;
+    border-top: black;
+}
+
+.shownote {
+    color: white
+}
+
+.colouredbutton {
+    background-color: cyan
+}
+
+.colouredbutton2 {
+    background-color: red
+}

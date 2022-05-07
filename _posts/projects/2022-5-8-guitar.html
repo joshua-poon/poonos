@@ -1,0 +1,145 @@
+---
+layout: blah
+author:
+title: "JOSHUA'S INTERACTIVE GUITAR CHORD SELECTOR AND NOTE TRAINER"
+date: 2022-05-8 0:49:11 +1100
+tags: guitar
+categories: projects featured
+permalink: "/guitar"
+---
+
+<h1><a href="/">BACK TO POONOS.COM</a></h1>
+
+<p>I've been learning the guitar recently - so here's a project I devised and am working on with HTML / JS to train
+    myself with less effort. The first version was released in April, this one is complete with chords and guitar note
+    crammer. Check it out! I appreciate any and all feedback :))</p>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Joshua's Guitar Trainer</title>
+</head>
+
+<body>
+    <header>
+        <h1>Joshua's Guitar Trainer</h1>
+    </header>
+    <main>
+
+        <table>
+            <tr>
+                <td style="width:5%">E</td>
+                <td style="width:20%">F</td>
+                <td style="width:20%">F#/G♭</td>
+                <td style="width:20%">G</td>
+                <td style="width:18%">G#/A♭</td>
+                <td style="width:17%">A</td>
+            </tr>
+            <tr>
+                <td>B</td>
+                <td>C</td>
+                <td>C#/D♭</td>
+                <td>D</td>
+                <td>D#/E♭</td>
+                <td>E</td>
+            </tr>
+            <tr>
+                <td>G</td>
+                <td>G#/A♭</td>
+                <td>A</td>
+                <td>A#/B♭</td>
+                <td>B</td>
+                <td>C</td>
+
+            </tr>
+            <tr>
+                <td>D</td>
+                <td>D#/E♭</td>
+                <td>E</td>
+                <td>F</td>
+                <td>F#/G♭</td>
+                <td>G</td>
+            </tr>
+            <tr>
+                <td>A</td>
+                <td>A#/B♭</td>
+                <td>B</td>
+                <td>C</td>
+                <td>C#/D♭</td>
+                <td>D</td>
+            </tr>
+            <tr>
+                <td>E</td>
+                <td>F</td>
+                <td>F#/G♭</td>
+                <td>G</td>
+                <td>G#/A♭</td>
+                <td>A</td>
+            </tr>
+        </table>
+
+        <button id="reset-colour">Reset Colours</button>
+        <button id="hidenotes">Hide Notes</button>
+        <button id="notecrammer">Note Crammer</button>
+
+        <p>How to use the Note Crammer: Click Reset Colours, Hided Notes, Note Crammer, and then guess which note
+            the
+            green note is
+            by pressing the Tonic Note options, until you get the correct one! To turn off, click Note Crammer
+            again.
+        </p>
+        <p>How to use the chord selector: Select the chord, and the chord type!</p>
+        <section>
+            <h4>Tonic Note</h4>
+            <button class="selector note">A</button>
+            <button class="selector note">A#/B♭</button>
+            <button class="selector note">B</button>
+            <button class="selector note">C</button>
+            <button class="selector note">C#/D♭</button>
+            <button class="selector note">D</button>
+            <button class="selector note">D#/E♭</button>
+            <button class="selector note">E</button>
+            <button class="selector note">F</button>
+            <button class="selector note">F#/G♭</button>
+            <button class="selector note">G</button>
+            <button class="selector note">G#/A♭</button>
+
+        </section>
+
+        <section>
+            <h4>Type of chord</h4>
+            <button class="selector chord-type">sustained 4th</button>
+            <button class="selector chord-type">Major</button>
+            <button class="selector chord-type">Minor</button>
+            <button class="selector chord-type">sustained 2nd</button>
+        </section>
+        <br>
+        <section>
+            <button class="selector seventh-chord">7th Chord</button>
+        </section>
+
+        <h3>Some basics of music theory intervals, using C major as an example</h3>
+        <ul>
+            <li>Major chord = tonic, major 3rd, perfect 5th (C = C, E, G, C)</li>
+            <li>Minor chord = tonic, minor 3rd (one semitone less than major 3rd, perfect 4th (Cm = C, E♭, G, C)
+            </li>
+            <li>Dominant seventh chord for major and minor (not the same as major seventh chord) = additional minor
+                7th
+                note, one tone below the tonic (C7 = C, E, G, B♭, C, Cm7= C, E♭, G, B♭, C) </li>
+            <li>Sustained = replace the third note with either the 2nd or the 4th note, usually the 4th (Csus = C,
+                F, G,
+                C)</li>
+            <li>Inverted or slash chords = play the second note as the bass note (C/E = E, C, E, G, C; C/D = D, C,
+                E, G)
+            </li>
+        </ul>
+    </main>
+    <link rel="stylesheet" href="/assets/css/guitar_2.css">
+    <script src="/assets/js/guitar_2.js"></script>
+</body>
+
+</html>
