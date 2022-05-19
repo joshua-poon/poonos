@@ -2,7 +2,7 @@
 layout: post
 title:  "'Have you gotten COVID yet?'"
 date:   2022-2-18 13:49:11 +1100
-categories: covid featured
+categories: covid
 tags: covid work pharmacy gp
 ---
 It's now been more than a month since the dramatic escalation of cases of the Omicron variant after Christmas. Here are my thoughts on QR codes, the booster shot and getting Covid.
