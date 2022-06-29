@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-title: "All the books I've ever read"
+title: "Some of the books I've read and enjoyed"
 date: 2022-01-31 0:49:11 +1100
 categories: life
 permalink: "/life/books"

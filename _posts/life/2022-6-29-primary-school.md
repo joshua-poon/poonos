@@ -4,6 +4,8 @@ title: "Memories from primary school"
 date: 2022-06-29 0:01:11 +1100
 tags: 
 categories: life featured
+permalink: "/life/primary"
+
 ---
 
 Primary school was a crazy time. Here are some of my best memories from primary school, a local government primary school.

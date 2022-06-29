@@ -9,4 +9,6 @@ Nostalgia comes from Greek, and literally means pain (algia) returning home (nos
 
 <a href="/nostalgia/movies">All the films I've ever watched, whether in cinemas, at home or at school</a>. I update this whenever I watch another one, and occasionally post a film review or two.
 
-Primary school was a crazy time. [Here are some of my best memories from primary school, a local government primary school.](/life/featured/2022/06/28/primary-school.html)
+Primary school was a crazy time. [Here are some of my best memories from primary school, a local government primary school.](/life/primary.html)
+
+We experienced two brutal lockdwons during the first year of the COVID-19 pandemic. [Here is some insight into how we coped experiencing it during our final year of high school, Year 12.](/life/pandemic_year_one.html)
