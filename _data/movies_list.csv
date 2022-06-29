@@ -1,6 +1,8 @@
-﻿Film,Year released,First watched,Category,Context
-The Batman,2022,2022,Superhero,In Cinemas
-Interstellar,2014,2022,,In IMAX
+﻿Film,Year released,First watched,Category,Location of screening
+Elvis,2022,2022,,In cinemas (on release date)
+Top Gun: Maverick,2022,2022,,"In IMAX (4k Digital), In cinemas (second time)"
+The Batman,2022,2022,Superhero,In cinemas
+Interstellar,2014,2022,,In IMAX (15/70 Film)
 Fantastic Mr Fox,2009,2021,Family,
 Spiderman: No Way Home,2021,2021,Superhero,In cinemas
 Shang Chi and the Legend of the Ten Rings,2021,2021,Superhero,In cinemas
@@ -64,6 +66,7 @@ A Series of Unfortunate Events,2004,2017,,TV film
 Artificial Intelligence,2001,2017,,Year 9 CE
 Romeo + Juliet,1996,2017,,Year 9 English
 Indiana Jones and the Last Crusade,1989,2017,Indiana Jones,TV film
+The Castle*,1997,2017,,Year 9 Cadet Camp
 Stand By Me,1986,2017,,Year 9 CE
 Gallipoli,1981,2017,,Year 9 History
 Romeo and Juliet,1968,2017,,Year 9 English
@@ -81,8 +84,8 @@ Harry Potter and the Order of the Phoenix,2007,2016,Harry Potter,TV film
 Atlantis: The Lost Empire,2001,2016,,
 Rush Hour,1998,2016,,Year 8 Chinese
 Return of the Jedi,1983,2016,Star Wars,
-Star Wars: The Force Awakens,2015,2015,Star Wars,In cinemas
-The Martian*,2015,2015,Sci-Fi,In cinemas
+Star Wars: The Force Awakens,2015,2015,Star Wars,In cinemas (on release date)
+The Martian*,2015,2015,,In cinemas
 Minions,2015,2015,Family,In cinemas
 Inside Out,2015,2015,,In cinemas
 The Blind Side,2009,2015,,Year 7 English
@@ -98,7 +101,7 @@ The Hunger Games,2012,2015,HG,
 Prince Caspian,2008,2015,Narnia,
 Supervolcano,2005,2015,,Year 7 English
 "The Lion, The Witch and the Wardrobe",2005,2015,Narnia,Year 7 English
-Shrek 2,2004,2015,,
+Shrek 2,2004,2015,Family,
 Monsters Inc.,2001,2015,,TV film
 The Truman Show,1998,2015,,Year 8 English
 Back to the Future III,1990,2015,BTTF,TV film
@@ -138,18 +141,18 @@ The Sound of Music,1965,2012,Family,Rewatched many times
 Willy Wonka and the Chocolate Factory,1971,2011,Family,
 Johnny English Reborn,2011,2011,,In cinemas
 Transformers: Dark of the Moon,2011,2011,,In cinemas
-Gnomeo and Juliet,2011,2011,,"At primary school, Year 3"
+Gnomeo and Juliet,2011,2011,Family,"At primary school, Year 3"
 Shrek,2001,2011,,"At primary school, middle years"
 Despicable Me,2010,2010,Family,"In cinemas, primary school birthday party"
 Alvin and the Chipmunks,2007,2010,Christmas,"At primary school, early years"
 Finding Nemo,2003,2010,Family,"At primary school, early years"
-How the Grinch stole Christmas,2000,2010,,"At primary school, early years"
+How the Grinch stole Christmas,2000,2010,Christmas,"At primary school, early years"
 Toy Story 2,1999,2010,Family,"At primary school, early years"
 Beauty and the Beast,1991,2010,Family,"At primary school, early years"
 Up,2009,2009,Family,In cinemas
-Cloudy with a Chance of Meatballs,2009,2009,,"In cinemas, Year 1 primary school excursion"
-Happy Feet,2006,2009,,"At primary school, early years"
+Cloudy with a Chance of Meatballs,2009,2009,Family,"In cinemas, Year 1 primary school excursion"
+Happy Feet,2006,2009,Family,"At primary school, early years"
 Toy Story,1995,2009,Family,"At primary school, Year 1 Concert break"
 Horton Hears a Who!,2008,2008,Family,In cinemas
-WALL-E,2008,2008,,In cinemas
+WALL-E,2008,2008,Family,In cinemas
 Laputa: Castle in the Sky,1986,2008,Anime,Friend's house
