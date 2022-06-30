@@ -3,7 +3,7 @@ layout: post
 title: "(Half of) Interstellar in film - a review"
 date: 2022-02-10 0:49:11 +1100
 tags: movies
-categories: life movies featured
+categories: life movies
 ---
 
 Last night, I saw (half of) Interstellar in film (15/70). The other half was, unfortunately, in digital 4k. Why half? Read on. Also, spoilers.   

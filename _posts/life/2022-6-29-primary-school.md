@@ -15,6 +15,9 @@ Prep
 - Fresh Food Fridays
 - Journal writing every monday after the weekend
 - lining up at the end of lunch
+- we would have a stand of children's books, including Mr McGee, The Very Hungry Caterpillar, Possum Magic, and the like
+
+![Mr McGee](/assets/nostalgia/mr_mcgee.png){:width="250"}
 
 Events
 - Footy day
@@ -23,8 +26,10 @@ Events
     - there was also a parade for other codes such as rugby and soccer
 - Easter Hat Parade
 - Tournaments and competitions such as the ICAS competitions, AMC, and chess
-
-![](/assets/nostalgia/mr_mcgee.png){:width="250"}
+- School sports such as Athletics Day at the local athletics track, Cross Country, and Swimming Carnival, including going to District and Division levels
+- End of term barbeques
+- Footsteps dancing classes and the gender divide
+- A performance company would come in and perform a production once a year, such as Sleeping Beauty, Aladdin and Snow White
 
 Term dates and holidays
 - early dismissal on the final day of term
@@ -33,7 +38,7 @@ Term dates and holidays
 - last days of school, when we'd find out who'd be in our class and teachers next year 
 - Year 6 Graduation ceremony
 
-![Mathletics](/assets/nostalgia/mathletics.jpg){:width="500"}  
+![Mathletics](/assets/nostalgia/mathletics.jpg){:width="400"}  
 
 Academic computer activities
 - Mathletics, which originally had 5 levels which became 10. We could also dress up using the money we won.
@@ -41,15 +46,6 @@ Academic computer activities
 - Skoodle
 - Scratch, the programming cat
 - Grok learning in Year 6
-
-Routine
-- lunch orders in the morning
-- payments, bank books and permission forms would be brought to the office with a partner
-
-School sports such as Athletics Day at the local athletics track, Cross Country, and Swimming Carnival, including going to District and Division levels
-
-![](/assets/nostalgia/road_map.jpg){:width="500"}
-
 
 Camps and excursions, before which we'd get permission forms to sign. We also had fun end of year activities.
 - Prep Breakfast, Year 1 Dinner, Year 2 Sleepover
@@ -64,6 +60,7 @@ Camps and excursions, before which we'd get permission forms to sign. We also ha
 - MSAC wave pool 
 - buffet, Big Hero 6 and bowling (year 6 graduation)
 
+
 School concerts were held every two years
 - Year 1 concert
 - Year 3 concert - Mickey (Toni Basil)
@@ -72,10 +69,20 @@ School concerts were held every two years
 
 Fire drills were run once a year usually. We were told about it beforehand and made to go stand at the oval.
 
+Morning routine
+- lunch orders in the morning
+- payments, bank books and permission forms would be brought to the office with a partner
+
+Students
+- people randomly vomiting, and teachers covered it with sawdust
+- people with allergies / asthma had their condition and action plan displayed across the school
+
 Teachers
 - teachers were on yard duty
 - teachers could put you in the naughty corner
 - if you forgot to pack lunch, teacher would lend you money to buy something at the canteen
+
+![](/assets/nostalgia/road_map.jpg){:width="500"}
 
 Finally, teachers are amazing. I remember every one of my teachers. It was hard to fathom that during primary school, we didn't realise that teachers had their own lives, their own families too. We remember out teachers but, except for a select, exceptional, few, we were but a revolving cycle of children going through the most formative periods of our lives.
 
@@ -97,11 +104,9 @@ Games
 - electronics day
     - never owned electronics but played on my iPad
 - iPad games
-    - Minecraft, Subway Surfers and Chinese Writer were the only games I played
-
+    - Minecraft, Subway Surfers and Chinese Writer were some games I played
 
 ![Four Square](/assets/nostalgia/four_square.webp){:width="500"}
-
 
 Technology
 - 3D printers, which were stolen one night, and the police came the morning after

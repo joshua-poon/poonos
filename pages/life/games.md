@@ -11,7 +11,7 @@ When I was young, I played a few board games. **Monopoly, chess, snakes and ladd
 
 During primary school, we played with our high bounce balls a lot. This included **two square, four square, eight square**, with the classic King, Queen, Jack, Dunce ordering. We also played **down ball** against a wall. We also played games in PE such as **rounders**, **continuous cricket**.
 
-For 'educational' purposes, we also played **mathletics**, did **Reading Eggs** and **Skoodle**. Mathletics dressing up was the funnest thing. There used to be 5 levels including: Speed Demon, Almost Einsteins
+For 'educational' purposes, we also played **mathletics**, did **Reading Eggs** and **Skoodle**. Mathletics dressing up was the funnest thing. There used to be 5 stages including: Raging Rookie, ?, Speed Demon, Almost Einstein and Human Calculator, as well as 5 different levels of maths difficulty.
 
 I won an iPad3 at the end of Year 4, my first electronic device (apart from TV, fridge, computers) conveniently just in time for BYOD beginning in Year 5. I would use that iPad until 1st year of uni. I had a couple of games on that iPad, including **Chinese Writer, Subway Surfers and Minecraft PE**. I bought the paid version of Minecraft PE towards the end of Year 5, and played on servers such as Lifeboat Skywars and Hunger Games in Year 6. I also played **Plants Vs Zombies 2** on my iPad outside of school.
 

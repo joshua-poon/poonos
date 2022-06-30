@@ -4,7 +4,7 @@ title: Opinion
 permalink: /opinion/
 ---
 
-Opinion pieces written by Yours Truly. Views expressed here at not necessarily held by me still, nor necessarily well researched or evidence-based.
+Opinion pieces written by yours truly. Views expressed here at not necessarily held by me still, nor necessarily well researched or evidence-based.
 
 <ul class="post-list">
     {%- for post in site.categories.opinion -%}

@@ -1,4 +1,5 @@
 
+https://jekyllrb.com/docs/datafiles/
 
 {% assign row = site.data.movies_list[0] %}
 {{ row | inspect }}
@@ -8,8 +9,6 @@
 {% for pair in row %}
   {{ pair | inspect }}
 {% endfor %}
-https://jekyllrb.com/docs/datafiles/
-
 
 
 <table class="table-sortable">
