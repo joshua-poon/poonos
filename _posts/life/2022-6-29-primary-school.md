@@ -30,6 +30,7 @@ Events
 - End of term barbeques
 - Footsteps dancing classes and the gender divide
 - A performance company would come in and perform a production once a year, such as Sleeping Beauty, Aladdin and Snow White
+- Healthy Harold, Slip Slap Slop, No Hat No Play and you have to stay in the shaded BBQ area
 
 Term dates and holidays
 - early dismissal on the final day of term
@@ -46,6 +47,7 @@ Academic computer activities
 - Skoodle
 - Scratch, the programming cat
 - Grok learning in Year 6
+- Run that town and Coffee shop, two games we played for 'educational purposes' in Year 6
 
 Camps and excursions, before which we'd get permission forms to sign. We also had fun end of year activities.
 - Prep Breakfast, Year 1 Dinner, Year 2 Sleepover
