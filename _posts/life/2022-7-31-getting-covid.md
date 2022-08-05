@@ -59,9 +59,27 @@ It's been 2.5 years into the pandemic. One eighth of my life has been spent worr
 - Regaining appetite
 - Slight sneezing
 - Well enough to wear contacts and retainers.
+- Tested positive on RAT
 
 
 ### Day 5
 - Woke up refreshed, albeit with slight headache and sore throat with mucus.
 - Continued taking paracetamol
 - Continual slight headache throughout the day
+- Coughing intensely at night
+- Still didn't do anything productive
+- Slept at 2am and felt normal
+
+### Day 6
+- Continuing to cough with phlegm
+- Slight sore throat
+- Didn't take paracetamol
+- Very slight headache
+- Otherwise well
+- Tested positive on RAT
+- Sneezing
+
+### Day 7
+- Continuing sore throat, and coughing with phlegm
+
+### Day 8 (first day out of isolation)
