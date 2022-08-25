@@ -31,7 +31,7 @@ I started with Joshua during the summer school holidays and we had begun from th
 
 **2021 Teaching Credentials**
 - Worked for Connect Education (Elevate) for 5 months, teaching group classes of 30 students, teaching VCE Eng Lang, Methods, Physics, and Specialist
-- Volunteered for the [Regional Education Support Network](https://www.resn.org.au), providing free on demand tutoring to regional students
+- Volunteered for the [Regional Education Support Network](https://www.resn.org.au), providing free on demand tutoring to regional students, as well as joining the staff time to help coordinate educational programs. I'm currently in this role.
 - Privately tutored students across secondary school year levels (Year 8 to VCE Unit 3/4)
 - Taught individual, small group and large group classes
 - taught both face-to-face and over Zoom
