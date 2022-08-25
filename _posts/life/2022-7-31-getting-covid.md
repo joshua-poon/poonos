@@ -81,5 +81,10 @@ It's been 2.5 years into the pandemic. One eighth of my life has been spent worr
 
 ### Day 7
 - Continuing sore throat, and coughing with phlegm
+- Got better through the day, mentally alert
 
 ### Day 8 (first day out of isolation)
+- Continuing sore throat, very light coughing with mucus, tiredness and fatigue
+
+### Day 9
+- Continuing sore throat, light coughing, tiredness
