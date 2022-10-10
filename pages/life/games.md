@@ -6,6 +6,7 @@ categories: life
 permalink: "/life/games"
 
 ---
+_Last updated 28/09/22_
 
 When I was young, I played a few board games. **Monopoly, chess, snakes and ladders**. I enjoyed playing weird **guessing and word games** as well.
 
@@ -34,3 +35,5 @@ During Year 11, I played **Just Dance** a few times and once in 2022, and **Mari
 However, as I've gotten older, I have enjoyed party games such as **Mafia**, **Werewolf**, **Codenames** a little more.
 
 Finally, in 2022, I started playing **Wordle** and **Heardle** daily. I play **Waffle** occasionally. On a retreat in June I also played **Overcooked** on the Switch.
+
+On placement in Bendigo, in 2022, I was introduced to a new range of board games: **Settlers of Catan** and **Secret Hitler**, war and social deception games which required a bit more thinking, cooperation and negotiation. Then there was **Photo Roulette**, a fun game to see how well you know your friends and which prompted much laughter. Finally, **Werewolf**, run on the phone, which is a simple, one night death form of Mafia, and **Spyfall**, a simple all-ages game which is also about social deception and group cohesive thinking, entertained.

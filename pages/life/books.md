@@ -27,5 +27,5 @@ When I was younger, I was really into reading books. Then it kinda waned. My rea
 - Sherlock Holmes. I read the entire suite during primary school.
 - Jane Austen. I read Sense and Sensibility when I was 11 and Pride and Prejudice when I was 17. I want to reread S & S honestly. I started but didn't finish Emma.
 - Brontes. Wuthering Heights (Emily) and The Tenant of Wildfell Hall (Anne). Started Jane Eyre (Charlotte), will finish later.
-- Agatha Christie
+- Agatha Christie's detective novels and series
 
