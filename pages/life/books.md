@@ -19,6 +19,7 @@ When I was younger, I was really into reading books. Then it kinda waned. My rea
 - Paul Jennings books such as Just Kidding, Just Amazing and other short storeis
 - Emily Rodda. I read all three Deltora Quest series. These fantasy books shaped my childhood. I also read the Three Doors trilogy books by her.
 - Bridge to Terabithia and Tuck Everlasting I read for a school extension program. Both books stick with me to this day because I actually studied them during the very formative primary school years.
+- Molly Moon
 - Jackie French books such as Hitler's daughter and Refuge shaped me. When Hitler Killed Pink Rabbit by Judith Kerr also shaped me
 - Roald Dahl books - basically all of the kids ones. His autobiographies Boy and Going Solo also stick with me. I also read Henry Sugar and other short stories.
 - Harry Potter - the order I read these books was 2, 7, 3, 4, 1, 6, 5. I used to know the exact order 100%. I will never again be able to say for certain what the exact order is anymore. 

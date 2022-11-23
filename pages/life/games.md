@@ -30,7 +30,7 @@ The game I played the most after Minecraft was probably **Clash Royale**, which 
 
 After I got Facebook, I also played **Words with Friends 2** over Facebook messenger. During this period I also played **James Bond** at an annual New Year dinner at a friend's house.
 
-During Year 11, I played **Just Dance** a few times and once in 2022, and **Mario Kart Wii** once during Year 11, but I don't think I've played a console or computer game since before the pandemic.
+During Year 11, I played **Just Dance** a few times and once in 2022, **Mario Kart Wii** once during Year 11, but I don't think I've played a console or computer game since before the pandemic. At the friend's house where I played Just Dance and Mario Kart Wii I also was introduced to and fell in love with **Codenames**.
 
 However, as I've gotten older, I have enjoyed party games such as **Mafia**, **Werewolf**, **Codenames** a little more.
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "'Rural' placement in Bendigo"
 date:   2022-9-16 13:49:11 +1100
-categories: Medicine
+categories: medicine featured
 tags: medicine 2021 semester 2
 ---
 
@@ -22,13 +22,9 @@ On Monday we attended a smoking ceremony, explored Monash rural health where the
 
 #### Tuesday
 
-Tuesday we attended clinical skills where we did suturing, cannula and blood practice. Then we went to the hospital, where Daniel took me around. It was very clean and new. that night people went gokarting but I stated at home and are pasta. 
+Tuesday we attended clinical skills where we did suturing, cannula and blood practice. Then we went to the hospital, where Daniel took me around. At the hospital, we observed a surgery from the outside, as well as interviewed some patients. The fact of the matter is that most patients are bored and probably want something to do, and so don't mind being talked to by medical students. Overall, the hospital was very clean and new. that night people went gokarting but I stated at home and ate pasta. 
 
-#### Wednesday
-
-Today I went to the GP. I watched some procedures,
-
-Games played
+We played board games at nighttime which was great. Games played included
 - Photo Roulette
 - Secret Hitler
 - Spyfall
@@ -38,10 +34,17 @@ Games played
 - Fusball
 - Chess
 
+#### Wednesday
+
+Today I went to the GP. I watched some procedures, including Implanon insertion, skin lesion removal and wart removal. All the doctors at the clinic were very gracious and welcoming. They don't bulk bill, but I found that they had more time for their patients whom they had formed good relatinoships with. Being a GP isn't all that easy financial wise either, let alone a regional GP - they have to pay for rent or the mortgage, staff and bills. The GP there told me that if he didn't work five days a week he wouldn't be able to afford it.
+
+
 #### Thursday
 
+On Thursday we went to the farm and visited some cows which was really nice. It was good to meet a real cow farmer and almost be peed on by mad cows. We also go taste cow milk which was great.
+
+That night we went to Maccas where I discovered that Maccas Frozen Cokes don't cost $1 after midnight. As of November 2022, however, they only cost $1 if you use the app.
 
 #### Friday
 
-
-Vline train symbolic pitch black going bye
+Friday was a chance for a 'Socratic Seminar', where we discussed issues facing rural medicine. I took the VLine train home, and by the end of the journey, it was nighttime. All I was thinking of as I was going home was how symbolic the VLine train was - a single, connected unit of strangers meandering its way through the pitch black countryside, meeting the occasional train every once in a while for a fleeting moment, before saying goodbye and diving headfirst into the unknown, guided by nothing but two pieces of metal, and like the train, destined, almost, to never meet each other.
