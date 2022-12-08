@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "French and how it helped me learn languages"
-date:   2022-012-1
+date: 2022-12-1 03:49:11 +1100
 categories: languages
 tags: french english 
 ---
