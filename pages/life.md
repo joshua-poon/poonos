@@ -5,7 +5,7 @@ permalink: /life/
 ---
 Nostalgia comes from Greek, and literally means pain (algia) returning home (nosta). In this section, I document life in the past, including stuff I've done, things I've owned and objects that I really cherish. Basically memories from growing up in Australia.
 
-[Movies](/life/movies) • [Books](/life/books) • [TV](/life/tv) • [Games](/life/games) • [Sport](/life/sport) • [Music (coming soon)](/life/music)
+[Movies](/life/movies) • [Books](/life/books) • [TV](/life/tv) • [Games](/life/games)]
 
 [All the films I've ever watched, whether in cinemas, at home or at school](/life/movies). I update this whenever I watch another one, and occasionally post a film review or two.
 
