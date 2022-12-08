@@ -9,7 +9,7 @@ Some languages I will cover are English (of course), Chinese, French, Latin, Anc
 
 I will also look at my project [@medetymology](https://www.instagram.com/medetymology), language pedagogy, the history of English, the evolution of scripts and how all of these interlink.
 
-To check out my (incomplete) linguistics journey, [click here][/life/language-journey].
+To check out my (incomplete) linguistics journey, [click here](/life/language-journey).
 
 <ul class="post-list">
     {%- for post in site.categories.languages -%}

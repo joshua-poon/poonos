@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "French and how it helped me learn languages"
-date: 2022-12-1 03:49:11 +1100
-categories: languages
+title:  "French and its effect on my language learning journey"
+date: 2022-12-1
+categories: languages featured
 tags: french english 
 ---
 
