@@ -107,6 +107,9 @@ Games
     - never owned electronics but played on my iPad
 - iPad games
     - Minecraft, Subway Surfers and Chinese Writer were some games I played
+- gangup tiggy, bob down tiggy
+    - terms such as 'no foxguarding'
+- fun quotes such as 'spell ICUP' and 'spell PIG backwards'
 
 ![Four Square](/assets/nostalgia/four_square.webp){:width="500"}
 

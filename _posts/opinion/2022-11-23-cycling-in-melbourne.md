@@ -2,7 +2,7 @@
 layout: post
 title:  "Cycling in Melbourne"
 date:   2022-11-23 10:49:11 +1100
-categories: opinion sport featured
+categories: sports opinion sport featured
 tags: 
 ---
 The day that my exams finished in Year 2, I bought a second hand bike from Facebook marketplace. I had been thinking of buying a bike for almost two years now, but I never had the chance to buy one – I didn’t want just another bike from Kmart as all my previous ones had been, and buying a new bike otherwise would’ve been two expensive. I ended up getting a bike for $50 from a gentleman residing in Canterbury, who no longer rode his bike. The bike had originally been advertised for $80 but I got it down to $50 due to its condition – the handlebars and chain were mostly rusted and there was a lot of fest on it.  
