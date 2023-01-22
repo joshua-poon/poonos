@@ -4,11 +4,11 @@ title: Tutoring
 permalink: /tutoring/
 ---
 
-I graduated high school in Melbourne in 2020, and have been tutoring since then. I'm always open to chat about tutoring enquiries, even if when schedule might be full!
+I graduated high school in Melbourne in 2020, and have been tutoring since then. I'm always open to chat about your tutoring enquiries, even if when schedule might be full!
 
 Simply use the form on the main page or email me to get in contact about tutoring.
 
-I have one public advertisement online for my tutoring services: [Highschooltutors.com.au](https://highschooltutors.com.au/listings/30749)
+I have two public advertisements online for my tutoring services: [Highschooltutors.com.au](https://highschooltutors.com.au/listings/30749) and [Facebook VCEDS Post](https://www.facebook.com/groups/VCEDS/posts/3802280196503598)
 
 **Latin Tutoring Credentials 2022**
 
