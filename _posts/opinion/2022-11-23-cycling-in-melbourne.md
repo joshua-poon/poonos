@@ -5,6 +5,9 @@ date:   2022-11-23 10:49:11 +1100
 categories: sports opinion sport featured
 tags: 
 ---
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1K6VmkAV2_PXD-KqHvU5nGy7HU66qduk&ehbc=2E312F" width="640" height="480"></iframe>
+
 The day that my exams finished in Year 2, I bought a second hand bike from Facebook marketplace. I had been thinking of buying a bike for almost two years now, but I never had the chance to buy one – I didn’t want just another bike from Kmart as all my previous ones had been, and buying a new bike otherwise would’ve been two expensive. I ended up getting a bike for $50 from a gentleman residing in Canterbury, who no longer rode his bike. The bike had originally been advertised for $80 but I got it down to $50 due to its condition – the handlebars and chain were mostly rusted and there was a lot of fest on it.  
 
 Cleaning the bike took a couple of hours. I had been planning to ride it to Brunswick to meet up with some friends but decided against it given the recent inclement weather (my friend told me that the Main Yarra Trail at the city end of the Eastern Freeway bike path had been flooded over recently). Getting rid of the rust was a matter of getting some vinegar and foil and just scraping. I also wiped the whole frame down several times and oiled the parts.  
