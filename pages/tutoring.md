@@ -10,7 +10,7 @@ Simply use the form on the main page or email me to get in contact about tutorin
 
 I have two public advertisements online for my tutoring services: [Highschooltutors.com.au](https://highschooltutors.com.au/listings/30749) and [Facebook VCEDS Post](https://www.facebook.com/groups/VCEDS/posts/3802280196503598)
 
-**Latin Tutoring Credentials 2022**
+**2022 Latin Tutoring credentials**
 
 I now mainly exclusively tutor Latin, while balancing two part time jobs in retail and healthcare, music, sport, church, social and academic commitments.
 - I have a broad experience in teaching Latin, teaching it from a beginner level, such as helping students to pick up the language, to VCE Unit 3/4 Level.
@@ -29,7 +29,7 @@ Josh is an excellent tutor who has extensive knowledge, understanding and intere
 I started with Joshua during the summer school holidays and we had begun from the start. Everything we covered even from the start to the end had a significant impact on my understanding and knowledge of methods. We were able to meet quite frequently when possible and I began to become more confident as time went on. I really couldn’t recommend Joshua enough! His accolades prove so and is a super nice person very approachable and useful to ask for any questions regarding how to improve as a student and with any questions you may get stuck with! Also provided me with useful notes and cas tricks school hadn’t shown me!
 
 
-**2021 Teaching Credentials**
+**2021 Tutoring Credentials**
 - Worked for Connect Education (Elevate) for 5 months, teaching group classes of 30 students, teaching VCE Eng Lang, Methods, Physics, and Specialist
 - Volunteered for the [Regional Education Support Network](https://www.resn.org.au), providing free on demand tutoring to regional students, as well as joining the staff time to help coordinate educational programs. I'm currently in this role.
 - Privately tutored students across secondary school year levels (Year 8 to VCE Unit 3/4)
@@ -43,5 +43,7 @@ I started with Joshua during the summer school holidays and we had begun from th
 - ATAR: 99.95 (2020)
 - Latin raw score: 44 (2020)
 - Latin scaled score: 54 (2020)
+- Maths Methods raw score: 50 (2019)
+- VCE Unit 3/4 Subjects: English, English Language, Latin, Specialist Maths, Maths Methods, Physics, Chemistry
 
 
