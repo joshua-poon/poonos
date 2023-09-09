@@ -4,23 +4,30 @@ title: Tutoring
 permalink: /tutoring/
 ---
 
-I graduated high school in Melbourne in 2020, and have been tutoring since then. I'm always open to chat about your tutoring enquiries, even if when schedule might be full!
+I graduated high school in Melbourne in 2020, and have been tutoring since then. I'm always open to chat about your tutoring enquiries! I am happy to do either in-person or Zoom tutoring, and can do both individual and group classes.
 
 Simply use the form on the main page or email me to get in contact about tutoring.
 
-I have two public advertisements online for my tutoring services: [Highschooltutors.com.au](https://highschooltutors.com.au/listings/30749) and [Facebook VCEDS Post](https://www.facebook.com/groups/VCEDS/posts/3802280196503598)
+I have two public advertisements online for my tutoring services: [Highschooltutors.com.au](https://highschooltutors.com.au/listings/30749) and [Facebook VCEDS Post](https://www.facebook.com/groups/VCEDS/posts/3802280196503598)..
 
-**2022 Latin Tutoring credentials**
+**2023 Latin Tutoring credentials**
 
-I now mainly exclusively tutor Latin, while balancing two part time jobs in retail and healthcare, music, sport, church, social and academic commitments.
+I now mainly exclusively tutor Latin (while balancing two part time jobs in retail and healthcare, music, sport, church, social and academic commitments).
+- I am fluent in Latin. I also have a strong understanding of linguistics and history of languages.
 - I have a broad experience in teaching Latin, teaching it from a beginner level, such as helping students to pick up the language, to VCE Unit 3/4 Level.
 - I am well acquainted with all books of the Aeneid, which is the text studied in VCE Unit 4, and am highly proficient in all aspects of the language required for Latin unseens. 
 - I have a range of resources such as notes, practice questions and sample unseens.
 - I have a depth of knowledge of the structure of both the Oxford and Cambridge Latin courses, having taught from both extensively
-- I love what Latin has taught me, and did it because I'm passionate about language learning, not just for the scaling! I'm proficient in French and am currently studying German.
+- I love what Latin has taught me, and did it because I'm passionate about language learning, not for the scaling! I studied French in high school and am currently learning German.
 - I love history and seeing the connections between language and culture in a classical context.
 
-People often think that Latin is a dead language - but it's not because it lives on through the modern languages it has evolved into and influenced, as well in religious culture and in scientific language!
+The VCE Latin Course requires two main skills - that of translation and that of text analysis. In VCE 3/4, all students will do their text analysis (comprehension, grammar, and essay) on one of the 12 books in Virgil's _Aeneid_.
+
+Translation requires you to be fluent in Latin - that is, you know the entire grammar (mostly classical Latin grammar), a range of vocabulary and are able to problem solve to solve the 'puzzle' that is translation. Latin sentences often do not have a predefined word order - although patterns do exist - so it is up to the student to think on the spot.
+
+The text analysis section in VCE Latin is on Virgil's Aeneid - an epic poem written between 30 BC and 20 BC which details a crucial part of the history of the Romans. The Romans believed that they came from the Trojans - who, in myth, are homeless after the being defeated in the Trojan War. They have to find a new homeland for their people, and Aeneas, the hero of the epic, is their leader. The _Aeneid_ details their years wandering the seas, settling in North Africa, journeying to the Underworld, before finally fighting a war against the Italians. Themes including the gods, mission, fate and the humanity of Aeneas intricately flow throughout the text, and need to be discussed in any good essay. 
+
+People often think that Latin is a dead language - but it's not because it lives on through the modern languages it has evolved into and influenced, as well in religious culture and in scientific language! I aim to make classes as enjoyable, yet informative as possible, tailored specific to the student's needs.
 
 **Testimonials from 2021**
 
@@ -38,12 +45,12 @@ I started with Joshua during the summer school holidays and we had begun from th
 - taught students across school sectors
 - overall, tutored more than 300 hours across the year
 
-
 **VCE Credentials**
 - ATAR: 99.95 (2020)
 - Latin raw score: 44 (2020)
 - Latin scaled score: 54 (2020)
 - Maths Methods raw score: 50 (2019)
 - VCE Unit 3/4 Subjects: English, English Language, Latin, Specialist Maths, Maths Methods, Physics, Chemistry
+- Achieved these results without undertaking any form of tutoring myself
 
 
