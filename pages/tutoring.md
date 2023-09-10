@@ -29,6 +29,12 @@ The text analysis section in VCE Latin is on Virgil's Aeneid - an epic poem writ
 
 People often think that Latin is a dead language - but it's not because it lives on through the modern languages it has evolved into and influenced, as well in religious culture and in scientific language! I aim to make classes as enjoyable, yet informative as possible, tailored specific to the student's needs.
 
+**Testimonials from 2022**
+
+Throughout my year 12 studies in 2022 I had undertaken Latin as one of my subjects. Due to the challenging nature of the subject, I sought out Joshua to give me some guidance in private tutoring lessons. Joshua was a very knowledgeable tutor whose enthusiasm and love for Latin even past his graduation really rubbed off on me. His approach to tutoring emphasised working on my weaknesses in the subjects and him modifying my approach to sections like the unseen translation scrupulously. He was always patient and encouraging, with not only Latin but the whole of year 12 and as a medical aspirant myself, he also took time to give me insight into managing the year 12 workload and working towards my goals. This all-rounded approach that Joshua gave to his tutoring inspired many of my study techniques and attitudes towards academics to this day, and I leave him my highest recommendation.
+
+Roshan Patil
+
 **Testimonials from 2021**
 
 Josh is an excellent tutor who has extensive knowledge, understanding and interest in Maths Methods and English Language and he supported me greatly throughout VCE especially during remote learning. He helped me significantly to improve and gain confidence within my subjects in year 12 as he was easily able to adapt lessons to cater to my specific concerns and focus on my weaknesses by helping me understand and rectify my mistakes. Josh provided me with many resources throughout the year such as notes, practise sacs and exam revision materials. Josh is also very kind and I felt comfortable asking questions as he was always happy to re-explain any concepts that I found difficult. He was flexible with class times and I was able to contact and receive help and detailed feedback from him outside of class times. Thanks to Josh I was able to really enjoy my subjects this year and was also able to achieve rank 1 at my school for English language this year which would not have been possible without his teaching and advice.
