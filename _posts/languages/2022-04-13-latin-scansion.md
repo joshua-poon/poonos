@@ -5,34 +5,55 @@ date:   2022-04-13 03:49:11 +1100
 categories: languages
 tags: latin scansion 
 ---
+_Last updated 24/09/2023_
+
 Scansion is identifying the rhythm of a line of Latin poetry. The most important aspects are the length of the vowels/syllables and the divisions within each line.
 
-<h2>Dactylic hexameter</h2>
+## Dactylic hexameter
 
-The Aeneid uses dactylic hexameter
-hexameter: 6 feet per line
+The Aeneid uses dactylic hexameter.  
+1. Latin lines can be separated into between 13 and 17 distinct syllables. Each syllable contains one vowel.
+2. Dactylic hexameter means *6 feet per line*. Each line can be separated into 6 feet.
+3. A foot is either two or three syllables. Each syllable corresponds to one vowel. Each vowel is pronounced either long or short.
+4. Each foot is either a dactyl, spondee or trochee, each with a different configuration of long or short vowels.
 
-1st to 4th feet: dactyl ( _ u u ) or spondee ( _ _ )
-5th foot : usually dactyl ( _  u u)
-6th foot: trochee ( _ u) or spondee ( _ _ )
+### Classification of feet
+1st to 4th feet: dactyl ( _ u u ) or spondee ( _ _ )  
+5th foot : dactyl ( _  u u)  
+6th foot: trochee ( _ u) or spondee ( _ _ )  
 
-_ indicates a long vowel, u indicates a short vowel
+_ is called a *macron* and indicates a long vowel, u indicates a short vowel
 
-<h2>Vowels</h2>
-<h3>Classification</h3>
-The vowels are a, e, i, o, u, y (present in Greek words)
+## Overall guide to scansion
 
-i as the first letter of the word (usually) and followed by a vowel (usually u, a, e)
--i can become a consonant eg Iulius = Julius
+Remember: scansion and meter do not change the pronunciation of the line
 
-i, between two vowels within a word
--eius, maior, peior, huius, Troia, cuius
--the i is a consonant and joins with the last vowel e-ius, hu-ius, Tro-ia except ai-o
+*Marking the syllables*
+1. check for elision 
+2. mark the vowels that are *long by position* (a vowel followed by two consonants)
+3. (optional, if the line is difficult) mark the vowel that are long or short by nature. For example, diphthongs are usually long, 'que' is usually short and 'o' at the end of a word is usually long. The patterns just has to be memorised. A dictionary will help.
 
-diphthongs: ae, oe, ei, eu, au, ui (only in cui, cuius, huic, huius)
--combinations of two vowels to make a single sound
--not all occurrences of these vowels together are diphthongs eg puella or aer
--diphthongs are always long except when it is an open syllable (followed by another vowel); ae in praeacutus is short
+*Scanning the line*
+4. scan the 6th feet, which is two syllables (always spondee or trochee)
+5. scan the 5th feet, which is three syllables (always dactyl). The rest of the sentence is now separated into 4 feet.
+6. deduce the dactyls and spondees through logic, for example, if the second last syllable of what is remaining is long, then the last syllable must also be long (to create a spondee).
+
+*Putting in the Caesura*
+7. Put in the Caesura
+
+## Vowels
+### Classification
+The Latin vowels are a, e, i, o, u, y (present in Greek words).
+
+### The letter i
+- If i is the first letter of the word, and followed by a vowel (u, a, e), then the 'i' is a consonant. For example, 'Iulius' is pronounced 'Yulius', or 'iam' is pronounced 'yam'
+- If i is between two vowels within a word, for example: eius, maior, peior, huius, Troia, cuius, then i is a consonant and joins with the last vowel e-ius, hu-ius, Tro-ia except ai-o
+
+### Diphthongs
+- diphthongs are long: ae, oe, ei, eu, au, ui (only in cui, cuius, huic, huius)
+- They are combinations of two vowels to make a single sound
+- Not all occurrences of these vowels together are diphthongs eg puella or aer
+- diphthongs are always long except when it is an open syllable (followed by another vowel); ae in praeacutus is short
 
 <h3>Vowel classification</h3>
 <table>
@@ -58,42 +79,30 @@ diphthongs: ae, oe, ei, eu, au, ui (only in cui, cuius, huic, huius)
 </tr>
 </table>
 
+### Vowel that is long by position
+
 A vowel is long based on its position in the sentence.
 
 A vowel directly followed by two consonants (according to the consonant classifications above) is long. These consonants do not have to be in the same word as the vowel.
 
-<h3>Long vowels by nature</h3>
+### Vowel that is long by nature
+Use the dictionary to see what endings are long by nature, at the end of a word. For example, 'i', 'o' and 'u' are usually long. Furthermore, diphthongs are long.
 
-Use the dictionary to see what endings are long by nature, at the end of a word. For example, 'i', 'o' and 'u' are usually long.
-
-Furthermore, diphthongs are long.
-
-<h3>Elision</h3>
-Elision occurs when
--a word ends in a vowel or a vowel + m
--the next word begins with a vowel of h
+## Elision
+Elision occurs when  
+- a word ends in a vowel or a vowel + m
+- the next word begins with a vowel of h
 
 The vowel ending the preceding word is puella ambulat = puellambulat
 
 The elided vowel is never scanned. Very rarely, the poet doesn’t elide the vowel for a particular effect, called a hiatus.
 
-<h3>Caesura</h3>
+## Caesura 
 A caesura is any break between words within a foot. The main caesura should be marked with two slashes ( // ). It should occur after the first (long) syllable of the foot.
 
--it is placed in the third foot if there is a caesura there
--otherwise it is placed in the fourth, and if not present in the fourth, the second foot
+-it is placed in the third foot if there is a caesura there. We can't put a Caesrua between two longs, inside an elision, or if there is no space between words in the third foot.
+- otherwise it is placed in the fourth, and if not present in the fourth, the second foot
 
-<h3>Diaresis</h3>
+## Diaresis
 A diaeresis is any time the end of a word coincides with the end of a foot.
 
-<h3>Overall guide to scansion</h3>
-
-Remember: scansion and meter do not change the pronunciation of the line
-<ol>
-<li>check for elision</li>
-<li>scan the 5th and 6th feet</li>
-<li>mark the long by position vowels (vowel followed by two consonants)</li>
-<li>mark the vowels that are long or short by nature (but not long by position already)</li>
-<li>deduce the dactyls and spondees</li>
-<li>use the dictionary to locate all the lengths of vowels. Only vowels which are long by nature are marked, with a macron.</li>
-</ol>
