@@ -29,18 +29,23 @@ The text analysis section in VCE Latin is on Virgil's Aeneid - an epic poem writ
 
 People often think that Latin is a dead language - but it's not because it lives on through the modern languages it has evolved into and influenced, as well in religious culture and in scientific language! I aim to make classes as enjoyable, yet informative as possible, tailored specific to the student's needs.
 
+**Testimonials from 2023**
+
+I had Josh Poon for both Latin and Physics tutoring, and he was a great tutor for both subjects. He was very encouraging, even if you were to get something incorrect, and he made sure to include all students in the discussion during the group tutoring. Josh had a deep understanding in the subjects, and even though he does not specialise in physics, he still explained the concepts really well and clearly, and in way that is easy to understand. Having tutoring with Josh made me feel more confident for my year 12 exams, and I strongly recommend him for future VCE students.
+_Jeremy_
+
 **Testimonials from 2022**
 
 Throughout my year 12 studies in 2022 I had undertaken Latin as one of my subjects. Due to the challenging nature of the subject, I sought out Joshua to give me some guidance in private tutoring lessons. Joshua was a very knowledgeable tutor whose enthusiasm and love for Latin even past his graduation really rubbed off on me. His approach to tutoring emphasised working on my weaknesses in the subjects and him modifying my approach to sections like the unseen translation scrupulously. He was always patient and encouraging, with not only Latin but the whole of year 12 and as a medical aspirant myself, he also took time to give me insight into managing the year 12 workload and working towards my goals. This all-rounded approach that Joshua gave to his tutoring inspired many of my study techniques and attitudes towards academics to this day, and I leave him my highest recommendation.
-
-Roshan Patil
+_Roshan Patil_
 
 **Testimonials from 2021**
 
 Josh is an excellent tutor who has extensive knowledge, understanding and interest in Maths Methods and English Language and he supported me greatly throughout VCE especially during remote learning. He helped me significantly to improve and gain confidence within my subjects in year 12 as he was easily able to adapt lessons to cater to my specific concerns and focus on my weaknesses by helping me understand and rectify my mistakes. Josh provided me with many resources throughout the year such as notes, practise sacs and exam revision materials. Josh is also very kind and I felt comfortable asking questions as he was always happy to re-explain any concepts that I found difficult. He was flexible with class times and I was able to contact and receive help and detailed feedback from him outside of class times. Thanks to Josh I was able to really enjoy my subjects this year and was also able to achieve rank 1 at my school for English language this year which would not have been possible without his teaching and advice.
+_Thulasi_
 
 I started with Joshua during the summer school holidays and we had begun from the start. Everything we covered even from the start to the end had a significant impact on my understanding and knowledge of methods. We were able to meet quite frequently when possible and I began to become more confident as time went on. I really couldn’t recommend Joshua enough! His accolades prove so and is a super nice person very approachable and useful to ask for any questions regarding how to improve as a student and with any questions you may get stuck with! Also provided me with useful notes and cas tricks school hadn’t shown me!
-
+_Ryan_
 
 **2021 Tutoring Credentials**
 - Worked for Connect Education (Elevate) for 5 months, teaching group classes of 30 students, teaching VCE Eng Lang, Methods, Physics, and Specialist
