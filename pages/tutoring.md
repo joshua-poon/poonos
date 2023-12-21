@@ -31,6 +31,9 @@ People often think that Latin is a dead language - but it's not because it lives
 
 **Testimonials from 2023**
 
+I really enjoyed studying with Josh for VCE Latin. Not only did I improve my translating and text analysis, I also learnt to appreciate the Aeneid more, particularly its themes and literary merits. Josh was instrumental in guiding me through the VCE Latin course, and whenever I had any questions he would be able to help, or was willing to investigate more for me. His enthusiasm and passion for the subject shone through, which helped me in my studies and my own enjoyment as well. His tutoring approach is very supportive and non-judgemental, and I felt free to make mistakes and improve constantly. While Latin is a difficult subject, he led me through it very well, culminating in a successful VCE result. Big thanks to Josh!
+_Caroline_
+
 I had Josh Poon for both Latin and Physics tutoring, and he was a great tutor for both subjects. He was very encouraging, even if you were to get something incorrect, and he made sure to include all students in the discussion during the group tutoring. Josh had a deep understanding in the subjects, and even though he does not specialise in physics, he still explained the concepts really well and clearly, and in way that is easy to understand. Having tutoring with Josh made me feel more confident for my year 12 exams, and I strongly recommend him for future VCE students.
 _Jeremy_
 
