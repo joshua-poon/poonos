@@ -2,7 +2,7 @@
 layout: post
 title:  "'Rural' placement in Bendigo"
 date:   2022-9-16 13:49:11 +1100
-categories: medicine featured
+categories: medicine 
 tags: medicine 2021 semester 2
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "One week of placement at the Alfred"
 date:   2023-02-10 8:46:11 +1100
-categories: medicine featured
+categories: medicine
 tags: medicine 2023 'semester 1'
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Year 2 Medicine at Monash University - an academic recap"
 date:   2022-12-25 8:46:11 +1100
-categories: medicine featured
+categories: medicine
 tags: medicine 2021 semester 2
 ---
 And so we have arrived at the end of the pre-clinical course at Monash University. A very short two years ago, we were babies in an adult worlds. Today, Christmas Day 2022, I am still but a child, still oblivious to the complexities of life, to the best ways to learn medicine and to what growing up is really about.
