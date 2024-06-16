@@ -2,7 +2,7 @@
 layout: post
 title:  "Voting for the first time"
 date:   2022-05-19 13:49:11 +1100
-categories: opinion featured
+categories: opinion
 tags: voting election politics
 permalink: /opinion/:year/:month/:title
 

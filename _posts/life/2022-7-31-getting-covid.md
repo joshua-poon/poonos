@@ -3,7 +3,7 @@ layout: post
 title: "My Covid Journey"
 date: 2022-07-31 0:01:11 +1100
 tags: 
-categories: life featured
+categories: life
 permalink: "/life/covid"
 
 ---

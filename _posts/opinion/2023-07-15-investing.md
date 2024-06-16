@@ -4,7 +4,7 @@ author:
 title: "Investing"
 date: 2023-07-15 0:49:11 +1100
 tags: investing
-categories: life featured
+categories: life
 ---
 _This entry is a personal account of my forays into investing and is not intended to be professional advice in any measure._
 This year has been a year of many firsts. One thing that I tried out is investing in shares and ETFs. I honestly had no idea where to begin, so I had to do my own research. I am still very much a novice, but over the year I have gained an (elementary) understanding of the ins and outs of starting off. So here is an explanation that I wish my past self had known before starting out.
